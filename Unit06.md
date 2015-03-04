@@ -1,3 +1,10 @@
+---
+layout: default
+title: "POLSC221: Introduction to Comparative Politics"
+course_description: "A survey of the governments and politics of several contemporary societies in the Americas, Europe, Africa, Asia, and the Middle East. Explores political leadership, representative mechanisms, legal processes, and the extra-institutional behaviors of voting culture, ethnic conflict, and corruption."
+next: ../Unit07
+previous: ../Unit05
+---
 **Unit 6: Comparing Ideology, Policy, and Decision Making** <span
 id="6"></span> 
 *This unit deals with ideology and decision-making tactics.  We first

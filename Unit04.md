@@ -1,3 +1,10 @@
+---
+layout: default
+title: "POLSC221: Introduction to Comparative Politics"
+course_description: "A survey of the governments and politics of several contemporary societies in the Americas, Europe, Africa, Asia, and the Middle East. Explores political leadership, representative mechanisms, legal processes, and the extra-institutional behaviors of voting culture, ethnic conflict, and corruption."
+next: ../Unit05
+previous: ../Unit03
+---
 **Unit 4: Comparing Political Structures and Institutions** <span
 id="4"></span> 
 *Constitutions are road maps for political systems.  They are an

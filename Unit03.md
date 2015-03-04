@@ -1,3 +1,10 @@
+---
+layout: default
+title: "POLSC221: Introduction to Comparative Politics"
+course_description: "A survey of the governments and politics of several contemporary societies in the Americas, Europe, Africa, Asia, and the Middle East. Explores political leadership, representative mechanisms, legal processes, and the extra-institutional behaviors of voting culture, ethnic conflict, and corruption."
+next: ../Unit04
+previous: ../Unit02
+---
 **Unit 3: Democratic States and Democratization** <span id="3"></span> 
 *Unit 3 focuses exclusively on the concept of democracy.  After defining
 the concept, this unit focuses on various attributes that characterize

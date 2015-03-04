@@ -1,3 +1,10 @@
+---
+layout: default
+title: "POLSC221: Introduction to Comparative Politics"
+course_description: "A survey of the governments and politics of several contemporary societies in the Americas, Europe, Africa, Asia, and the Middle East. Explores political leadership, representative mechanisms, legal processes, and the extra-institutional behaviors of voting culture, ethnic conflict, and corruption."
+next: ../../../
+previous: ../Unit06
+---
 **Unit 7: Comparative Case Studies** <span id="7"></span> 
 *This last unit will introduce you to area studies as they are conducted
 in political science and international studies.  Please bear in mind
